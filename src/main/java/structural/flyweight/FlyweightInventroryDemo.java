@@ -1,6 +1,6 @@
 package structural.flyweight;
 
-public class FlyweightInventroryDemo {
+public class FlyweightInventoryDemo {
     public static void main(String[] args) {
         InventorySystem inventory = new InventorySystem();
 
